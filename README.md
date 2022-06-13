@@ -19,4 +19,4 @@ EuI'm still learning very early on, so this repository is a way of recording my 
 ┖ 🟡```ft_swapf.c``` Swap the float value of A for the float value of B, and the float value of B for the float value of A.<br />
 ┖ ⚫```ft_swapc.c``` Swap the char value of A for the char value of B, and the char value of B for the char value of A.<br />
 ┖ ⚫```ft_swaps.c``` Swap the elements of A with the elements of B, and the elements of B with the elements of A.<br />
->Attention: The strings must be the same size. <br />
+Attention: The strings must be the same size. <br />
