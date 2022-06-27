@@ -1,4 +1,4 @@
-void ft_title (char *jaden_case, const char *string)
+char *ft_title (char *jaden_case, const char *string)
 {
     int i, s;
 

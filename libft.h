@@ -2,3 +2,4 @@
 #include "ft_spacerm.c"
 #include "ft_swap.c"
 #include "ft_title.c"
+#include "ft_factorial.c"
