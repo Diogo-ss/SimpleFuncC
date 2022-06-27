@@ -19,6 +19,6 @@ EuI'm still learning very early on, so this repository is a way of recording my 
 ┖ 🟡`ft_swapf.c` Swap the float value of A for the float value of B, and the float value of B for the float value of A.<br />
 ┖ ⚫`ft_swapc.c` Swap the char value of A for the char value of B, and the char value of B for the char value of A.<br />
 ┖ ⚫`ft_swaps.c` Swap the elements of A with the elements of B, and the elements of B with the elements of A.<br />
-Attention: The strings must be the same size. <br />
-🟡 `ft_title.c` convert the first character in each word to Uppercase and remaining characters to Lowercase in the string and returns a new string. <br />
-🔴`ft_factorial.c` Calculates the factorial of a positive integer <br />
+Attention: The strings must be the same size. <p>
+🟡 `ft_title.c` convert the first character in each word to Uppercase and remaining characters to Lowercase in the string and returns a new string. <p>
+🔴`ft_factorial.c` Calculates the factorial of a positive integer <p>
