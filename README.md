@@ -21,3 +21,4 @@ EuI'm still learning very early on, so this repository is a way of recording my 
 ┖ ⚫`ft_swaps.c` Swap the elements of A with the elements of B, and the elements of B with the elements of A.<br />
 Attention: The strings must be the same size. <br />
 🔴 `ft_title.c` convert the first character in each word to Uppercase and remaining characters to Lowercase in the string and returns a new string. <br />
+🔴 `ft_factorial.c` Calculates the factorial of a positive integer <br />
