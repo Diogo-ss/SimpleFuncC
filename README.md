@@ -24,3 +24,4 @@ Attention: The strings must be the same size. <p>
 🟡 `ft_title.c` convert the first character in each word to Uppercase and remaining characters to Lowercase in the string and returns a new string. <p>
 🔴 `ft_factorial.c` Calculates the factorial of a positive integer <p>
 🟡 `ft_concatenation_str.c` Performs the concatenation of two strings <p>
+🟢 `ft_isalpha.c` Checks if the character is alphabetic, returns 0 (false) or 1 (true). <p>
