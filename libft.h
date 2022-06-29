@@ -3,3 +3,4 @@
 #include "ft_swap.c"
 #include "ft_title.c"
 #include "ft_factorial.c"
+#include "ft_concatenation_str.c"
