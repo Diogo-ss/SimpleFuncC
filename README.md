@@ -1,6 +1,5 @@
 ## SimpleFuncC
 
-### I am not yet a student of 42, but I liked the idea. This project has no supervision, it is for learning.
 I'm creating simple functions for C. <br />
 I'm still learning very early on, so this repository is a way of recording my evolution with C, not a project in itself.
 
