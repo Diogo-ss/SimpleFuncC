@@ -1,6 +1,6 @@
 #include <malloc.h>
 
-char *ft_concatenar(char *a, char *b)
+char *ft_concatenation_str(char *a, char *b)
 {
     int ca;
     int cb;
