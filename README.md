@@ -1,4 +1,4 @@
-## Simple-Func-C
+## SimpleFuncC
 
 I'm creating simple functions for C. <br />
 EuI'm still learning very early on, so this repository is a way of recording my evolution with C, not a project in itself.
